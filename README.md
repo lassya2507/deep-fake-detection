@@ -5,12 +5,9 @@ This repository contains a deep fake detection model using a **Convolutional Neu
 Additionally, the repository features a real-time prediction system that allows the model to predict the authenticity of live photos, making it ideal for practical applications.
 
 **Key Observations:** 
-
 Performance metrics include **92% precision** for fake images, **99% precision** for real images, and **99% recall** for fake images with **92% recall** for real images. The F1-score is **95%** for both fake and real images. 
 
-Additionally, the model achieved a **ROC-AUC** score of **0.9951** and an **AP** score of **0.995**, indicating excellent discrimination between real and fake faces. 
-
-When tested on 12 random images from testing set, the model successfully identified all of them with **100% accuracy**.
+Additionally, the model achieved a **ROC-AUC** score of **0.9951** and an **AP** score of **0.995**, indicating excellent discrimination between real and fake faces. When tested on 12 random images from testing set, the model successfully identified all of them with **100% accuracy**.
 
 ![sample result](random_testing.png)
 ## Requirements
