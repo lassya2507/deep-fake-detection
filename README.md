@@ -9,7 +9,7 @@ Performance metrics include **92% precision** for fake images, **99% precision**
 
 Additionally, the model achieved a **ROC-AUC** score of **0.9951** and an **AP** score of **0.995**, indicating excellent discrimination between real and fake faces.
 
-When tested on 12 random images from testing set, the model successfully identified all of them with **100% accuracy**.
+When tested on 16 random images from testing set, the model successfully identified all of them with **100% accuracy**.
 
 ![sample result](random_testing.png)
 ## Requirements
