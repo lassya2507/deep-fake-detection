@@ -34,3 +34,6 @@ Also the code for this project can be accessd at main.ipynb
 ## Future Work
 
 **Ensemble Model:** Plans to combine this CNN with other models (e.g., ResNet, EfficientNet) for enhanced performance via ensemble learning techniques.
+
+## Acknowledgments
+A huge shoutout and appreciation to [xsuryanshx](https://github.com/xsuryanshx/Detecting-GAN-Generated-DeepFake-Images), from where I took some references and code and tailored it according to my needs.
